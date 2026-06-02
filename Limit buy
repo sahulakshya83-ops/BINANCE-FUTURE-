@@ -1,0 +1,6 @@
+python cli.py \
+--symbol BTCUSDT \
+--side BUY \
+--order_type LIMIT \
+--quantity 0.001 \
+--price 100000
