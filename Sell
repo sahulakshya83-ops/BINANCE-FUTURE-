@@ -1,0 +1,5 @@
+python cli.py \
+--symbol BTCUSDT \
+--side SELL \
+--order_type MARKET \
+--quantity 0.001
