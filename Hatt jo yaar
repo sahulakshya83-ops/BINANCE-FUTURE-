@@ -1,0 +1,17 @@
+#binance future trading bot 
+##future# Binance Futures Trading Bot
+
+Python trading bot for Binance Futures Testnet.
+
+## Features
+- Market Orders
+- Limit Orders
+- BUY and SELL support
+- Logging
+- Input Validation
+
+## Run
+
+pip install -r requirements.txt
+
+python cli.py --symbol BTCUSDT --side BUY --order_type MARKET --quantity 0.001
